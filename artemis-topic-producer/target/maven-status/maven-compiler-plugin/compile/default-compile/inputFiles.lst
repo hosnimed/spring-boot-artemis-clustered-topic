@@ -1,0 +1,6 @@
+/mnt/hgfs/dev/activemq-artemis/spring-boot-artemis-clustered-topic/artemis-topic-producer/src/main/java/com/sbm/artemis/demo/models/Product.java
+/mnt/hgfs/dev/activemq-artemis/spring-boot-artemis-clustered-topic/artemis-topic-producer/src/main/java/com/sbm/artemis/demo/SpringArtemisTopicProducerApplication.java
+/mnt/hgfs/dev/activemq-artemis/spring-boot-artemis-clustered-topic/artemis-topic-producer/src/main/java/com/sbm/artemis/demo/config/ConnectionFactoryClusteredConfig.java
+/mnt/hgfs/dev/activemq-artemis/spring-boot-artemis-clustered-topic/artemis-topic-producer/src/main/java/com/sbm/artemis/demo/models/Company.java
+/mnt/hgfs/dev/activemq-artemis/spring-boot-artemis-clustered-topic/artemis-topic-producer/src/main/java/com/sbm/artemis/demo/jms/JmsPublisher.java
+/mnt/hgfs/dev/activemq-artemis/spring-boot-artemis-clustered-topic/artemis-topic-producer/src/main/java/com/sbm/artemis/demo/config/ConnectionFactoryLocalConfig.java

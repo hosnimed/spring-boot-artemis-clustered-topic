@@ -1,0 +1,6 @@
+com/sbm/artemis/demo/jms/JmsPublisher.class
+com/sbm/artemis/demo/SpringArtemisTopicProducerApplication.class
+com/sbm/artemis/demo/models/Company.class
+com/sbm/artemis/demo/models/Product.class
+com/sbm/artemis/demo/config/ConnectionFactoryClusteredConfig.class
+com/sbm/artemis/demo/config/ConnectionFactoryLocalConfig.class
