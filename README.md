@@ -59,4 +59,4 @@ ${topic-cosnsumer-home} $ mvn spring-boot:run -Dspring.profiles.active=node3
 - https://activemq.apache.org/artemis/docs/latest/examples.html
 - https://github.com/apache/activemq-artemis/tree/master/examples/features/clustered
 - http://javasampleapproach.com/java-integration/activemq-work-spring-jms-activemq-topic-publisher-subcribers-pattern-using-springboot
- 
+- https://stackoverflow.com/questions/47760168/durable-subscription-for-artemis-cluster-with-springboot
